@@ -196,8 +196,4 @@ Used for dimensionality reduction and visualization.
 
 ---
 
-## Author
 
-**Sushma Munagala**
-
-Machine Learning & Software Development Enthusiast
